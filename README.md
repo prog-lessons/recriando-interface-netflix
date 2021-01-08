@@ -1,5 +1,5 @@
 # Recriando-Interface-Netflix
- Projeto realizado no bootcamp JavaScript Gamer Developer na plataforma da DIO: https://web.digitalinnovation.one/home
+ Projeto realizado no bootcamp Everis FullStack Developer da Digital Innovation One.
 
  Sites usados no JS para os efeitos dos ícones e a scroll box:
  
